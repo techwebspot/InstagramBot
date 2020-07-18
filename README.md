@@ -28,7 +28,7 @@
 ```
 cd ~/Downloads
 git clonehttps://github.com/mansisharma0510/InstagramBot.git
-cd InstagramBot-master
+cd InstagramBot
 pip3 install -r requirements.txt
 chmod +x main.py
 ./main.py
